@@ -9,3 +9,4 @@ To Gemini:
 Can you give me a challenge, a step by step tutorial on how to build an ecommerce website using postgresql, react, and node.js which 
 only gives me a small piece of the puzzle at any one given point in time and allows me to move to the next step after completing the 
 previous task? I really want you to be my teacher
+
